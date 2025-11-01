@@ -3,15 +3,15 @@
         {
             "name": "Brushed_Drone",
             "includePath": [
-                "e:\\STM32_Proj\\HAL\\F103C8T6\\Brushed_Drone\\Core\\Inc",
-                "e:\\STM32_Proj\\HAL\\F103C8T6\\Brushed_Drone\\Drivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy",
-                "e:\\STM32_Proj\\HAL\\F103C8T6\\Brushed_Drone\\Drivers\\STM32F1xx_HAL_Driver\\Inc",
-                "e:\\STM32_Proj\\HAL\\F103C8T6\\Brushed_Drone\\Drivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include",
-                "e:\\STM32_Proj\\HAL\\F103C8T6\\Brushed_Drone\\Drivers\\CMSIS\\Include",
-                "e:\\STM32_Proj\\HAL\\F103C8T6\\Brushed_Drone\\UserLib",
-                "e:\\STM32_Proj\\HAL\\F103C8T6\\Brushed_Drone\\MDK-ARM",
-                "e:\\STM32_Proj\\HAL\\F103C8T6\\Brushed_Drone\\Core\\Src",
-                "e:\\STM32_Proj\\HAL\\F103C8T6\\Brushed_Drone\\Drivers\\STM32F1xx_HAL_Driver\\Src"
+                "e:\\STM32_Proj\\HAL\\F103C8T6\\BrushedDrone1\\Basic_Driver\\Core\\Inc",
+                "e:\\STM32_Proj\\HAL\\F103C8T6\\BrushedDrone1\\Basic_Driver\\Drivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy",
+                "e:\\STM32_Proj\\HAL\\F103C8T6\\BrushedDrone1\\Basic_Driver\\Drivers\\STM32F1xx_HAL_Driver\\Inc",
+                "e:\\STM32_Proj\\HAL\\F103C8T6\\BrushedDrone1\\Basic_Driver\\Drivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include",
+                "e:\\STM32_Proj\\HAL\\F103C8T6\\BrushedDrone1\\Basic_Driver\\Drivers\\CMSIS\\Include",
+                "e:\\STM32_Proj\\HAL\\F103C8T6\\BrushedDrone1\\Basic_Driver\\UserLib",
+                "e:\\STM32_Proj\\HAL\\F103C8T6\\BrushedDrone1\\Basic_Driver\\MDK-ARM",
+                "e:\\STM32_Proj\\HAL\\F103C8T6\\BrushedDrone1\\Basic_Driver\\Core\\Src",
+                "e:\\STM32_Proj\\HAL\\F103C8T6\\BrushedDrone1\\Basic_Driver\\Drivers\\STM32F1xx_HAL_Driver\\Src"
             ],
             "defines": [
                 "USE_HAL_DRIVER",

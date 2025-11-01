@@ -57,10 +57,26 @@ void Error_Handler(void);
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
+#define POWER_ADC_Pin GPIO_PIN_1
+#define POWER_ADC_GPIO_Port GPIOA
+#define SERVO_ADC_Pin GPIO_PIN_4
+#define SERVO_ADC_GPIO_Port GPIOA
+#define LED_POWER_Pin GPIO_PIN_6
+#define LED_POWER_GPIO_Port GPIOA
+#define LED_USER_Pin GPIO_PIN_7
+#define LED_USER_GPIO_Port GPIOA
 #define AXIS_SCL_Pin GPIO_PIN_10
 #define AXIS_SCL_GPIO_Port GPIOB
 #define AXIS_SDA_Pin GPIO_PIN_11
 #define AXIS_SDA_GPIO_Port GPIOB
+#define MOTOR_FL_Pin GPIO_PIN_8
+#define MOTOR_FL_GPIO_Port GPIOA
+#define MOTOR_RL_Pin GPIO_PIN_9
+#define MOTOR_RL_GPIO_Port GPIOA
+#define MOTOR_FR_Pin GPIO_PIN_10
+#define MOTOR_FR_GPIO_Port GPIOA
+#define MOTOR_RR_Pin GPIO_PIN_11
+#define MOTOR_RR_GPIO_Port GPIOA
 #define OLED_SCL_Pin GPIO_PIN_8
 #define OLED_SCL_GPIO_Port GPIOB
 #define OLED_SDA_Pin GPIO_PIN_9

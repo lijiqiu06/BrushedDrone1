@@ -22,9 +22,16 @@ brushed_drone\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h
 brushed_drone\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
 brushed_drone\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
 brushed_drone\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+brushed_drone\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc.h
+brushed_drone\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc_ex.h
 brushed_drone\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
 brushed_drone\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
 brushed_drone\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+brushed_drone\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
+brushed_drone\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
+brushed_drone\main.o: ../Core/Inc/adc.h
+brushed_drone\main.o: ../Core/Inc/dma.h
+brushed_drone\main.o: ../Core/Inc/tim.h
 brushed_drone\main.o: ../Core/Inc/gpio.h
 brushed_drone\main.o: ../UserLib/OLED.h
 brushed_drone\main.o: ../UserLib/OLED_Data.h
@@ -33,3 +40,6 @@ brushed_drone\main.o: ../UserLib/QMC5883P.h
 brushed_drone\main.o: ../UserLib/BMP280.h
 brushed_drone\main.o: ../UserLib/BMP280_RegAdd.h
 brushed_drone\main.o: ../UserLib/Delay.h
+brushed_drone\main.o: ../UserLib/Power.h
+brushed_drone\main.o: ../UserLib/LED.h
+brushed_drone\main.o: ../UserLib/Motor.h

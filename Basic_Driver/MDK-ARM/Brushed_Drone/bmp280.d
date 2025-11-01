@@ -22,9 +22,13 @@ brushed_drone\bmp280.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h
 brushed_drone\bmp280.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
 brushed_drone\bmp280.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
 brushed_drone\bmp280.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+brushed_drone\bmp280.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc.h
+brushed_drone\bmp280.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc_ex.h
 brushed_drone\bmp280.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
 brushed_drone\bmp280.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
 brushed_drone\bmp280.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+brushed_drone\bmp280.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
+brushed_drone\bmp280.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
 brushed_drone\bmp280.o: ..\UserLib\BMP280_RegAdd.h
 brushed_drone\bmp280.o: D:\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
 brushed_drone\bmp280.o: ..\UserLib\MyI2C.h

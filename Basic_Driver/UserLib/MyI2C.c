@@ -23,6 +23,9 @@ uint8_t MyI2C_R_SDA(void)
 	return HAL_GPIO_ReadPin(GPIOB,GPIO_PIN_11);
 }
 
+
+
+
 void MyI2C_Init(void)
 {
 

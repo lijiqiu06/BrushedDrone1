@@ -3,7 +3,7 @@
 #include "MyI2C.h"
 #include "QMC5883P_RegAdd.h"
 
-#define QMC5883P_Address 0x58
+#define QMC5883P_Address 0x58  
 float MX, MY, MZ;
 
 void QMC5883P_WriteReg(uint8_t RegAddress, uint8_t data)
